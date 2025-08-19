@@ -1,0 +1,11 @@
+# Simulation and build output
+sim/
+*.vcd
+*.log
+*.out
+*.o
+*.fsdb
+*.vvp
+
+# Editor folders
+.vscode/
